@@ -1,8 +1,5 @@
-# C++ Code Repository
-
-Welcome to my C++ code repository! This repo is a collection of my C++ programs, covering a variety of topics including algorithms, data structures, problem-solving, and more.
-
-## 📂 Structure
-
-All files in this repository are standalone C++ programs. Each file is usually named according to the problem it solves or the concept it demonstrates.
+This repository contains a collection of pattern programs written in C++.
+It includes various star (*), number, and character patterns commonly asked in coding interviews and beginner programming exercises.
+Each pattern is organized clearly with proper code and output comments.
+This is helpful for C++ beginners to improve their understanding of loops and logic building.
 
