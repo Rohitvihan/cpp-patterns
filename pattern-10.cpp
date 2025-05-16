@@ -1,3 +1,11 @@
+To print pattern:-
+                    *
+                    **
+                    ***
+                    ****
+                    ***
+                    **
+                    *
 #include <iostream>
 using namespace std;
 
